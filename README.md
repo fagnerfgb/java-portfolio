@@ -1,5 +1,5 @@
 # Java Portfolio
-First lessons on programming and Java language.
+First lessons on programing and Java language.
 
 IT Technical Course at SENAC Tatuapé.
 
