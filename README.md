@@ -8,8 +8,11 @@ Teacher: José de Assis
 ## Author
 Fagner Geraldes Braga
 
-## Apps
+## Imagem do Portfólio
+![portfolio](https://github.com/fagnerfgb/java-portfolio/blob/master/img/portfolio.PNG)
 
+
+## Apps
 Função Random
 * Sorteia uma Carta do Baralho
 * Sorteia uma Carta de Tarot
