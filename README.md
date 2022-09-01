@@ -36,7 +36,7 @@ Others
 * Ethanol or gasoline ?
 * Can I vote ?
 
-## Demonstração (Instrução para instalação)
+## Setup install
 - Minimum Java 17 or superior
 - In Releases, download de file portfolio.jar
 To run on Windows: double click on the file portfolio.jar
