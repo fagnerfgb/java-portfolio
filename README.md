@@ -8,34 +8,33 @@ Teacher: José de Assis
 ## Author
 Fagner Geraldes Braga
 
-## Imagem do Portfólio
+## Portfolio Image
 ![portfolio](https://github.com/fagnerfgb/java-portfolio/blob/master/img/portfolio.PNG)
 
-
 ## Apps
-Função Random
-* Sorteia uma Carta do Baralho
-* Sorteia uma Carta de Tarot
-* Lança um Dado
-* Jogo do JoKenPo
+Random
+* Draw a card from a deck
+* Draw a Tarot card from a deck
+* Throw a dice
+* JoKenPo
 
-Conversão de Temperatura
-* Celsius para Fahrenheit
-* Fahrenheit para Celsius
+Temperature Conversion
+* Celsius to Fahrenheit
+* Fahrenheit to Celsius
 
-Calculadoras
-* Cálculo a Hora de um Serviço
-* Cálculo do IMC
-* Cálculo de Juros Compostos
-* Cálculo da Porcentagem
-* Cálculo da Tabuada
-* Holerite
+Calculators
+* Hour of service
+* BMI
+* Compound interest
+* Percentage
+* Multiplication table
+* Pay check
 
-Outros
-* Boletim Escolar
-* Busca CEP
-* Qual combustível escolher ?
-* Verifica se pode votar
+Others
+* School report
+* Zip code search
+* Ethanol or gasoline ?
+* Can I vote ?
 
 ## Demonstração (Instrução para instalação)
 - Minimum Java 17 or superior
