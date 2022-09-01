@@ -20,8 +20,8 @@ Função Random
 * Jogo do JoKenPo
 
 Conversão de Temperatura
-* Celsius para Farenheit
-* Farenheit para Celsius
+* Celsius para Fahrenheit
+* Fahrenheit para Celsius
 
 Calculadoras
 * Cálculo a Hora de um Serviço
